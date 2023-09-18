@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.navbar{
+	height: 10vh;
+	width: 100%;
+	border: 1px solid black;
+	text-align: center;
+}
+.main{
+	height: 25vh;
+	width: 100%;
+	border: 1px solid black;
+	text-align: center;
+}
+.footer{
+	height: 25vh;
+	width: 100%;
+	border: 1px solid black;
+}
+.child{
+	border: 1px solid black;
+	text-align: center;
+}
+.row2{
+	border: 1px solid black;
+	text-align: center;
+}
+.child{
+	height: 56vh;
+	width: 15%;
+	border: 1px solid black;
+}
+.content{
+	height: 35vh;
+	width: 100%;
+	border: 1px solid black;
+}
+.mynav{
+	background-color: orange;
+}
